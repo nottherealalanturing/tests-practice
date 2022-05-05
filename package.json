@@ -1,0 +1,13 @@
+{
+  "name": "tests-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Assad Isah <nottherealalanturing@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
